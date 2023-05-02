@@ -15,3 +15,5 @@
 - Resources reservation: https://slurm.schedmd.com/reservations.html
 
 - Slurm scheduling types: https://slurm.schedmd.com/sched_config.html
+
+*Document with screenshots of tests: https://docs.google.com/document/d/1JEnBU5iwCb2IaKyNvEm6w6Jke1kQo6pKub3-by3MH6M/edit?usp=sharing 
